@@ -38,3 +38,7 @@ then I found I need to find a nice typeface
 ![type.png](https://imgpile.com/images/D6DLFF.png)
 I ended up just playing with size to make the picture look better
 But in the end I gave up on drawing on half a canvas, full canvas looks better!
+
+![sketch.jpg](https://imgpile.com/images/D6DeOR.jpg)
+![sketch2.jpg](https://imgpile.com/images/D6Djyg.jpg)
+![sketch3.jpg](https://imgpile.com/images/D6G4Gc.jpg)
